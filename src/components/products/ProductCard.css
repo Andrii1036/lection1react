@@ -1,0 +1,12 @@
+.ProductCard{
+    width: 170px;
+    height: 100%;
+    display:flex;
+    flex-direction:column;
+    padding:3px;
+    background:lightgreen;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom:15px;
+
+}

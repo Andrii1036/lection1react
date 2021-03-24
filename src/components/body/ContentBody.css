@@ -1,0 +1,9 @@
+.ContentBody{
+    width: 60%;
+    height: 100%;
+    display:flex;
+    justify-content:space-around;
+    padding: 12px;
+    background:dodgerblue;
+    flex-wrap: wrap;
+}
